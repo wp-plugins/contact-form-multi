@@ -8,7 +8,7 @@ Stable tag: 1.0.6
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Add Contact Form Multi to your WordPress website.
+Add multiple contact forms to your WordPress website using the Contact Form plugin.
 
 == Description ==
 
@@ -23,12 +23,8 @@ This plugin makes it possible to create and implement multiple contact forms on 
 
 = Features =
 
-* Actions: Ability to add an unlimited number of contact forms by clickilng the + button.
-* Actions: Ability to select different settings for each contcat form.
-* Actions: Ability to choose an addressee - it can be any user or any email address.
-* Actions: Ability to add a field for the file attachment.
-* Actions: Ability to add a field for sending a copy of the message to the user who fills out the contact form. A copy will be sent to the email address specified while filling out the contact form.
-* Label: Ability to change a label when the fields are displayed.
+* Actions: Ability to add an unlimited number of contact forms.
+* Actions: Ability to select different settings for each contact form.
 
 = Translation =
 
@@ -48,7 +44,7 @@ We can fix some things for free for the users who provide translation of our plu
 
 1. Upload the `contact-form-multi` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin via the 'Plugins' menu in WordPress.
-4. Create a page or a post and insert the shortcode [contact_form id=you_form_id] into the text.
+3. Create a page or a post and insert the shortcode [contact_form id=you_form_id] into the text.
 
 == Frequently Asked Questions ==
 
@@ -78,7 +74,7 @@ Please make sure that the problem hasn't been discussed yet on our forum (<a hre
 1. the link to the page where the problem occurs
 2. the name of the plugin and its version. If you are using a pro version - your order number.
 3. the version of your WordPress installation
-4. copy and paste into the message your system status report. Please read more here: <a href="https://docs.google.com/document/d/1Wi2X8RdRGXk9kMszQy1xItJrpN0ncXgioH935MaBKtc/edit" target="_blank">System_Status.pdf</a>
+4. copy and paste into the message your system status report. Please read more here: <a href="https://docs.google.com/document/d/1Wi2X8RdRGXk9kMszQy1xItJrpN0ncXgioH935MaBKtc/edit?pli=1" target="_blank">System_Status.pdf</a>
 
 == Screenshots ==
 
