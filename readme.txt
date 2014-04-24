@@ -1,6 +1,6 @@
 === Contact Form Multi ===
 Contributors: bestwebsoft
-Donate link: https://www.2checkout.com/checkout/purchase?sid=1430388&quantity=10&product_id=13
+Donate link: https://www.2checkout.com/checkout/purchase?sid=1430388&quantity=1&product_id=94
 Tags: Contact Form, text, contact, form, contacts, contact form, request, contact me, feedback form, feedback, contact button, contact form plugin, contacts form plugin, attachment, send, copy, attachment, send copy
 Requires at least: 3.0
 Tested up to: 3.8.1
@@ -66,7 +66,7 @@ We can fix some things for free for the users who provide translation of our plu
 
 = How can I add a contact form to my site? =
 
-Please insert the shortcode [contact_form id=] to a post or page.
+Please insert the shortcode [contact_form id=*] to a post or page.
 
 = I have some problems with the plugin's work. What Information should I provide to receive proper support? =
 
